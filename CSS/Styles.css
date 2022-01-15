@@ -14,8 +14,8 @@ span.highlight {
   font-style: italic;
   text-decoration: underline;
  }
-.important {
-   margin: 20;
+div .important {
+   margin: 300;
    padding: auto;
    color: black;
  }
