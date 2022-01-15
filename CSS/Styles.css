@@ -25,3 +25,6 @@ p.basic {
   color: blue;
   text-decoration: underline;
 }
+body {
+  background-color: lightblue;
+}
