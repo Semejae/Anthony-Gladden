@@ -9,9 +9,11 @@ body {
 }
 img.main {
   float: right;
-  border: 3px solid rgb(207, 19, 19);
+  border: 5px solid rgb(19, 95, 120);
+  margin: 10px;
+  padding: 10px;
 }
-h1.intro {color: blueviolet;
+h1.intro {color: rgb(19, 95, 120);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin: 10px;
   padding: 10px;
@@ -42,7 +44,7 @@ span.highlight {
 .important {
   margin: 20px;
   padding: 20px;
-  color: rgb(255, 0, 0);
+  color: rgb(19, 95, 120);
   border: double;
 }
 h3 {
@@ -64,6 +66,6 @@ h3.bold {
 p.unimportant {
    margin: 20px;
    padding: 20px;
-   color: rgb(255, 0, 0);
+   color: rgb(19, 95, 120);
    border: double;
  }
