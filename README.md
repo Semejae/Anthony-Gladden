@@ -23,3 +23,13 @@ _webpage about Me, and where i went to school and why i chose coding. also some 
 * _Open file in your VS Code to edit_
 * _To edit but not make perminant changes, create a new branch using 'git branch [new-branch-name]'_
 * _Switch to that branch and edit away by using 'git checkout [branch-you'd-like-to-change-to]'_
+
+## known bugs
+*_my favorit games page isnt full finish_
+*_Slummerch webpage links have issues_
+*_main page background wont load_
+
+## License 
+_refresh page if issues occur or conatact me a.gladden360@outlook.com_
+
+Copyright (c) _01/15/2022_ _Anthony Gladden_

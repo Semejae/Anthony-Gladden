@@ -19,6 +19,11 @@ h2.basic {
   font-size: 25px;
 
 }
+ol {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
 span.highlight {
   font-style: italic;
   text-decoration: underline;
