@@ -1,20 +1,28 @@
+body {
+  background-color: rgb(183, 157, 28);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  margin: 30;
+  padding: 30;
+  box-sizing: border-box;
+  border: 5px dotted black;
+}
 img.main {
   float: right;
-  margin: 10;
-	padding: 10;
+  border: 3px solid rgb(207, 19, 19);
 }
 h1.intro {color: blueviolet;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  margin: 20;
-  padding: 20;
+  margin: 10px;
+  padding: 10px;
   text-align: center;
   font-size: 35px;
 }
 h2.basic {
   color: black;
   font-style: inherit;
-  margin: auto;
-  padding: auto;
+  margin: 5px;
+  padding: 5px;
   text-align: justify;
   font-size: 25px;
 
@@ -23,10 +31,13 @@ ol {
   font-style: italic;
   font-weight: bold;
   font-size: 20px;
+ 
 }
 span.highlight {
   font-style: italic;
   text-decoration: underline;
+  margin: 5px;
+  padding: 5px;
  }
 .important {
   margin: 20px;
@@ -34,27 +45,25 @@ span.highlight {
   color: rgb(255, 0, 0);
   border: double;
 }
+h3 {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+
+}
 h3.bold {
   font-style: inherit;
   font-size: 20px;
   color: black;
   text-align: center;
   text-decoration: underline;
+  margin: 5px;
+  padding: 5px;
 }
 p.unimportant {
-  margin: 20px;
+   margin: 20px;
    padding: 20px;
    color: rgb(255, 0, 0);
    border: double;
  }
-
-}
-body {
-  background-color: lightblue;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: 500;
-  margin: 500px;
-  padding: 500px;
-  box-sizing: content-box;
-  border: 5px solid black;
-}
