@@ -10,20 +10,43 @@ h1.intro {color: blueviolet;
   text-align: center;
   font-size: 35px;
 }
+h2.basic {
+  color: black;
+  font-style: inherit;
+  margin: 40;
+  padding: 30;
+  text-align: justify;
+  font-size: 25px;
+
+}
+h3.bold {
+  font-style: inherit;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
 span.highlight {
   font-style: italic;
   text-decoration: underline;
  }
-div .important {
-   margin: 300;
-   padding: auto;
-   color: black;
+div.important {
+   margin: 30px;
+   padding: 30px;
+   color: rgb(20, 28, 95);
  }
 p.basic {
-  margin: auto;
-  padding: auto;
-  color: red;
+  margin: 10px;
+  padding: 10px;
+  color: rgb(141, 33, 6);
   text-decoration: underline;
+}
+p.unimportant {
+  margin: 10px;
+   padding: 10px;
+   color: rgb(95, 20, 33);
+ }
+
 }
 body {
   background-color: lightblue;
