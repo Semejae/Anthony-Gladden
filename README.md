@@ -1,4 +1,4 @@
-#Anthony
+# Anthony
 #_{Anthony-Gladden}_
 #### By _**{Anthony Gladden}**_
 
@@ -23,7 +23,7 @@ _webpage about Me, and where i went to school and why i chose coding. also some 
 * _Open file in your VS Code to edit_
 * _To edit but not make perminant changes, create a new branch using 'git branch [new-branch-name]'_
 * _Switch to that branch and edit away by using 'git checkout [branch-you'd-like-to-change-to]'_
-* _ also you can view the website @ https://semejae.github.io/Anthony-Gladden/
+* _also you can view the website @ https://semejae.github.io/Anthony-Gladden/
 
 ## known bugs
 *_my favorit games page isnt full finish_
